@@ -1,0 +1,50 @@
+.top {
+  width: 100%;
+  background-color: #7e858e;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.t-first {
+  width: 15%;
+}
+
+.t-second {
+  width: 15%;
+
+  display: flex;
+  justify-content: space-between;
+}
+
+.t-first {
+  width: 15%;
+}
+
+.t-fourth {
+  display: none;
+}
+
+.top-logo-pic {
+  width: 100%;
+}
+
+@media (max-width: 576px) {
+  .t-third {
+    display: none;
+  }
+
+  .t-second {
+    display: none;
+  }
+
+  .t-fourth {
+    display: block;
+    width: 15%;
+
+    display: flex;
+    justify-content: space-between;
+    padding-right: 10px;
+  }
+}

@@ -1,0 +1,54 @@
+.bg-container {
+  background-color: black;
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.login-card {
+  background-color: #7e858e;
+  width: 40%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.jobby-card {
+  background-color: blueviolet;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.user-details-card {
+  background-color: bisque;
+  width: 100%;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+
+.centerist {
+  display: flex;
+  flex-direction: column;
+  width: 90%;
+}
+
+.loginbutton {
+  width: 100%;
+  margin-top: 20px;
+}
+
+.logo-photo {
+  width: 40%;
+}
+
+.username1 {
+  width: 40%;
+}
+
+.password1 {
+  width: 40%;
+}

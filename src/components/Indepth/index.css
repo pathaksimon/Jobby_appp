@@ -1,0 +1,86 @@
+.bg-container3 {
+  background-color: #7e858e;
+  background-size: cover;
+  width: 90%;
+  display: flex;
+}
+
+.biggi {
+  background-color: black;
+  background-size: cover;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.details-card {
+  width: 85%;
+  background-color: #475569;
+
+  margin: 10px;
+}
+
+.first {
+}
+
+.second {
+  display: flex;
+  flex-wrap: wrap;
+  padding-left: 0px;
+}
+
+.third {
+  display: flex;
+}
+
+.first-inside {
+}
+
+.second-inside {
+}
+
+.logo-card {
+  width: 10%;
+}
+
+.logo-card2 {
+  width: 20%;
+  margin-top: 5px;
+}
+
+.logo-details {
+  display: flex;
+}
+
+.location123 {
+  width: 20%;
+  display: flex;
+
+  justify-content: space-between;
+}
+
+.package {
+  width: 20%;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.location-details {
+  display: flex;
+  justify-content: space-between;
+}
+
+.tc {
+  display: flex;
+  justify-content: space-between;
+}
+
+.similar-jobs-card {
+  width: 85%;
+  padding-left: 0px;
+  display: flex;
+}

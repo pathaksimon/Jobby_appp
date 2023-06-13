@@ -1,0 +1,15 @@
+.lista2 {
+  background-color: #7e858e;
+  width: 30%;
+  list-style-type: none;
+  margin-right: 10px;
+}
+
+.inside-1 {
+  display: flex;
+  margin-left: 5px;
+}
+
+.inside-2 {
+  margin-left: 5px;
+}
